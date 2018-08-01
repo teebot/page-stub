@@ -1,0 +1,196 @@
+{
+    "version": "4",
+    "name": "Wes Anderson",
+    "layouts": [
+        {
+            "id": "18a66882",
+            "type": "section",
+            "children": [
+                {
+                    "type": "text",
+                    "id": "1d378808",
+                    "text": "\u003Cp\u003E\u003Cstrong style=\u0022font-size: 36px;\u0022\u003EMeet COZMO\u003C\/strong\u003E\u003C\/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C\/p\u003E\u003Cp\u003E\u003Cspan style=\u0022font-size: 22px;\u0022\u003EBig brain. Bigger personality.\u003C\/span\u003E\u003C\/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C\/p\u003E\u003Cp\u003EMeet Cozmo, a gifted little guy with a mind of his own. He\u2019s a real-life robot like you\u2019ve only seen in movies, with a one-of-a-kind personality that evolves the more you hang out. He\u2019ll nudge you to play and keep you constantly surprised. Cozmo\u2019s your accomplice in a crazy amount of fun. \u003C\/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C\/p\u003E\u003Cp\u003E\u003Ca href=\u0022https:\/\/www.anki.com\/en-us\/cozmo\u0022 target=\u0022_blank\u0022\u003EProduct Detail\u003C\/a\u003E\u003C\/p\u003E"
+                },
+                {
+                    "type": "gallery",
+                    "id": "16c2668a",
+                    "stretchToFit": true,
+                    "noMargins": true,
+                    "showCaptions": false,
+                    "showThumbnails": true,
+                    "showNextPrevious": true,
+                    "transitionEnabled": true,
+                    "transitionStyle": "fade",
+                    "autoPlay": true,
+                    "autoPlayDuration": 3,
+                    "images": [
+                        {
+                            "fileName": "cozmo-robot-box-1170x429.jpg",
+                            "link": {
+                                "type": "none"
+                            },
+                            "focalPoint": {
+                                "x": 0.5,
+                                "y": 0.5
+                            },
+                            "isUploading": false,
+                            "assetId": "5382a4385917243f0a5bbc73c3ee6291"
+                        },
+                        {
+                            "fileName": "cozmo_robot_012-1500x1000.jpg",
+                            "link": {
+                                "type": "none"
+                            },
+                            "focalPoint": {
+                                "x": 0.5,
+                                "y": 0.5
+                            },
+                            "isUploading": false,
+                            "assetId": "abac01b0301182ed4fb97726c08b0126"
+                        }
+                    ],
+                    "isUploadingImages": false
+                }
+            ]
+        },
+        {
+            "id": "1b5dd7c6",
+            "type": "section",
+            "children": [
+                {
+                    "type": "asset",
+                    "id": "126ccc46",
+                    "title": "",
+                    "contentType": "manual",
+                    "assetsToShow": 10,
+                    "sortBy": "name",
+                    "sortDirection": "ASC",
+                    "viewMode": "grid",
+                    "iconAsset": null,
+                    "isIconOptionVisible": false,
+                    "isTagOptionExpanded": false,
+                    "isLoadingAssets": false,
+                    "isUploadingIcon": false,
+                    "children": null,
+                    "assetIds": [
+                        "c9b2da67eeae15a5de583ab8845d7c3a",
+                        "c475f131a34800c79d8fced6ea076b82",
+                        "8191fd264dc213ebed3f9d7cae567781",
+                        "1fdd3111cd44865d41b81646147ae6d1"
+                    ]
+                },
+                {
+                    "type": "asset",
+                    "id": "1411c09a",
+                    "title": "",
+                    "contentType": "manual",
+                    "assetsToShow": 10,
+                    "sortBy": "name",
+                    "sortDirection": "ASC",
+                    "viewMode": "list",
+                    "iconAsset": null,
+                    "isIconOptionVisible": false,
+                    "isTagOptionExpanded": false,
+                    "isLoadingAssets": false,
+                    "isUploadingIcon": false,
+                    "children": null,
+                    "assetIds": [
+                        "53815eae02d4e929ba9d40e5270776ae",
+                        "8191fd264dc213ebed3f9d7cae567781"
+                    ]
+                }
+            ]
+        }
+    ],
+    "resources": {
+        "assets": {
+            "53815eae02d4e929ba9d40e5270776ae": {
+                "id": "53815eae02d4e929ba9d40e5270776ae",
+                "name": "cloud-06.jpg",
+                "filetype": "photo",
+                "downloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/53815eae02d4e929ba9d40e5270776ae\/variation\/unprocessed\/file\/v1",
+                "previewDownloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/53815eae02d4e929ba9d40e5270776ae\/preview\/v1.0",
+                "isShareable": true,
+                "views": 0,
+                "createdAt": "2018-04-12T13:35:26+00:00",
+                "updatedAt": "2018-04-12T13:35:29+00:00",
+                "appLink": "showpad:\/\/file\/6e1b6a3e5e5852a444019462d15179c5"
+            },
+            "8191fd264dc213ebed3f9d7cae567781": {
+                "id": "8191fd264dc213ebed3f9d7cae567781",
+                "name": "cozmo_4.jpg",
+                "filetype": "photo",
+                "downloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/8191fd264dc213ebed3f9d7cae567781\/variation\/unprocessed\/file\/v1",
+                "previewDownloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/8191fd264dc213ebed3f9d7cae567781\/preview\/v1.0",
+                "isShareable": true,
+                "views": 0,
+                "createdAt": "2018-07-24T12:31:55+00:00",
+                "updatedAt": "2018-07-24T12:33:24+00:00",
+                "appLink": "showpad:\/\/file\/1ec7e89f628a3fce23f84891b25b11f7"
+            },
+            "c475f131a34800c79d8fced6ea076b82": {
+                "id": "c475f131a34800c79d8fced6ea076b82",
+                "name": "cozmo_3.jpg",
+                "filetype": "photo",
+                "downloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/c475f131a34800c79d8fced6ea076b82\/variation\/unprocessed\/file\/v1",
+                "previewDownloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/c475f131a34800c79d8fced6ea076b82\/preview\/v1.0",
+                "isShareable": true,
+                "views": 0,
+                "createdAt": "2018-07-24T12:31:55+00:00",
+                "updatedAt": "2018-07-24T12:33:14+00:00",
+                "appLink": "showpad:\/\/file\/2e65d04e8f34e8bb377bf7009822aaf5"
+            },
+            "c9b2da67eeae15a5de583ab8845d7c3a": {
+                "id": "c9b2da67eeae15a5de583ab8845d7c3a",
+                "name": "cozmo_2.jpg",
+                "filetype": "photo",
+                "downloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/c9b2da67eeae15a5de583ab8845d7c3a\/variation\/unprocessed\/file\/v1",
+                "previewDownloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/c9b2da67eeae15a5de583ab8845d7c3a\/preview\/v1.0",
+                "isShareable": true,
+                "views": 0,
+                "createdAt": "2018-07-24T12:31:56+00:00",
+                "updatedAt": "2018-07-24T12:33:05+00:00",
+                "appLink": "showpad:\/\/file\/83e42706528d127e4f25af22f926e485"
+            },
+            "1fdd3111cd44865d41b81646147ae6d1": {
+                "id": "1fdd3111cd44865d41b81646147ae6d1",
+                "name": "cozmo_setup.pdf",
+                "filetype": "document",
+                "downloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/1fdd3111cd44865d41b81646147ae6d1\/variation\/unprocessed\/file\/v1",
+                "previewDownloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/1fdd3111cd44865d41b81646147ae6d1\/preview\/v1.0",
+                "isShareable": true,
+                "views": 0,
+                "createdAt": "2018-07-24T12:32:32+00:00",
+                "updatedAt": "2018-07-24T12:32:57+00:00",
+                "appLink": "showpad:\/\/file\/045552e41bcc239f8f22186f8ed92152"
+            },
+            "5382a4385917243f0a5bbc73c3ee6291": {
+                "id": "5382a4385917243f0a5bbc73c3ee6291",
+                "name": "cozmo-robot-box-1170x429.jpg",
+                "filetype": "page-photo",
+                "downloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/5382a4385917243f0a5bbc73c3ee6291\/variation\/unprocessed\/file\/v1",
+                "previewDownloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/5382a4385917243f0a5bbc73c3ee6291\/preview\/v1.0",
+                "isShareable": true,
+                "views": 0,
+                "createdAt": "2018-07-24T12:40:54+00:00",
+                "updatedAt": "2018-07-24T12:40:55+00:00",
+                "appLink": "showpad:\/\/file\/6ab1e148740b6977c3bb4c40d4403201"
+            },
+            "abac01b0301182ed4fb97726c08b0126": {
+                "id": "abac01b0301182ed4fb97726c08b0126",
+                "name": "cozmo_robot_012-1500x1000.jpg",
+                "filetype": "page-photo",
+                "downloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/abac01b0301182ed4fb97726c08b0126\/variation\/unprocessed\/file\/v1",
+                "previewDownloadLink": "https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/abac01b0301182ed4fb97726c08b0126\/preview\/v1.0",
+                "isShareable": true,
+                "views": 0,
+                "createdAt": "2018-07-24T12:41:11+00:00",
+                "updatedAt": "2018-07-24T12:41:13+00:00",
+                "appLink": "showpad:\/\/file\/3ca7dbe127b5dd4ae884ec057787bd2e"
+            }
+        },
+        "pages": [],
+        "experiences": [],
+        "smartViews": []
+    }
+}
