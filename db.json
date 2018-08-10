@@ -47,7 +47,7 @@
             "isTagOptionExpanded": false,
             "isLoadingAssets": false,
             "isUploadingIcon": false,
-            "assetIds": []
+            "itemsIds": []
           },
           {
             "type": "asset",
@@ -63,7 +63,7 @@
             "isTagOptionExpanded": false,
             "isLoadingAssets": false,
             "isUploadingIcon": false,
-            "assetIds": [
+            "itemIds": [
               "7c0b0620dab53966b39af2e9588766ed",
               "2f96b7e1a54c7ef1301ec0bd6fcab8c2"
             ]
