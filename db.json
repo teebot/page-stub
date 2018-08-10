@@ -1,1 +1,106 @@
-{"page": {"version":"1","name":"Page image","layouts":[{"id":"1d1c186e","type":"section","children":[{"type":"text","id":"1927e961","text":"\u003Cp\u003E\u003Cstrong style=\u0022font-size: 36px;\u0022\u003EYour Title Here\u003C\/strong\u003E\u003C\/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C\/p\u003E\u003Cp\u003E\u003Cspan style=\u0022font-size: 22px;\u0022\u003EYour subtitle here\u003C\/span\u003E\u003C\/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C\/p\u003E\u003Cp\u003EA few description words to convince the world.\u003C\/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C\/p\u003E\u003Cp\u003E\u003Ca href=\u0022https:\/\/showpad.com\u0022 target=\u0022_blank\u0022\u003EA link.\u003C\/a\u003E\u003C\/p\u003E"},{"type":"gallery","id":"1736a107","stretchToFit":true,"noMargins":true,"showCaptions":false,"showThumbnails":true,"showNextPrevious":true,"transitionEnabled":true,"transitionStyle":"fade","autoPlay":true,"autoPlayDuration":3,"images":[],"isUploadingImages":false}]},{"id":"1fa70c55","type":"section","children":[{"type":"asset","id":"1bee36aa","title":"","contentType":"manual","assetsToShow":10,"sortBy":"name","sortDirection":"ASC","viewMode":"grid","iconAsset":null,"isIconOptionVisible":false,"isTagOptionExpanded":false,"isLoadingAssets":false,"isUploadingIcon":false,"assetIds":[]},{"type":"asset","id":"19d9d26b","title":"","contentType":"manual","assetsToShow":10,"sortBy":"name","sortDirection":"ASC","viewMode":"grid","iconAsset":null,"isIconOptionVisible":false,"isTagOptionExpanded":false,"isLoadingAssets":false,"isUploadingIcon":false,"assetIds":["7c0b0620dab53966b39af2e9588766ed","2f96b7e1a54c7ef1301ec0bd6fcab8c2"]}]}],"resources":{"assets":{"7c0b0620dab53966b39af2e9588766ed":{"id":"7c0b0620dab53966b39af2e9588766ed","name":"cloud-02.jpg","filetype":"photo","downloadLink":"https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/7c0b0620dab53966b39af2e9588766ed\/variation\/unprocessed\/file\/v1","previewDownloadLink":"https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/7c0b0620dab53966b39af2e9588766ed\/preview\/v1.0","isShareable":true,"views":0,"createdAt":"2018-04-12T13:35:26+00:00","updatedAt":"2018-05-02T08:16:32+00:00","appLink":"showpad:\/\/file\/094d7b8bf541d1e21516c5946135f3da"},"2f96b7e1a54c7ef1301ec0bd6fcab8c2":{"id":"2f96b7e1a54c7ef1301ec0bd6fcab8c2","name":"cloud-05.jpg","filetype":"photo","downloadLink":"https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/2f96b7e1a54c7ef1301ec0bd6fcab8c2\/variation\/unprocessed\/file\/v1","previewDownloadLink":"https:\/\/cpaws.staging.showpad.biz\/api\/v3\/assets\/2f96b7e1a54c7ef1301ec0bd6fcab8c2\/preview\/v1.0","isShareable":true,"views":1,"createdAt":"2018-04-12T13:35:26+00:00","updatedAt":"2018-04-20T08:48:56+00:00","appLink":"showpad:\/\/file\/9bbb1695be098e7ad4c81a5d537de0ee"}},"pages":[],"experiences":[],"smartViews":[]}}}
+{
+  "page": {
+    "version": "1",
+    "name": "Page image",
+    "layouts": [
+      {
+        "id": "1d1c186e",
+        "type": "section",
+        "children": [
+          {
+            "type": "text",
+            "id": "1927e961",
+            "text": "\u003Cp\u003E\u003Cstrong style=\u0022font-size: 36px;\u0022\u003EYour Title Here\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003E\u003Cspan style=\u0022font-size: 22px;\u0022\u003EYour subtitle here\u003C/span\u003E\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003EA few description words to convince the world.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003E\u003Ca href=\u0022https://showpad.com\u0022 target=\u0022_blank\u0022\u003EA link.\u003C/a\u003E\u003C/p\u003E"
+          },
+          {
+            "type": "gallery",
+            "id": "1736a107",
+            "stretchToFit": true,
+            "noMargins": true,
+            "showCaptions": false,
+            "showThumbnails": true,
+            "showNextPrevious": true,
+            "transitionEnabled": true,
+            "transitionStyle": "fade",
+            "autoPlay": true,
+            "autoPlayDuration": 3,
+            "images": [],
+            "isUploadingImages": false
+          }
+        ]
+      },
+      {
+        "id": "1fa70c55",
+        "type": "section",
+        "children": [
+          {
+            "type": "asset",
+            "id": "1bee36aa",
+            "title": "",
+            "contentType": "manual",
+            "assetsToShow": 10,
+            "sortBy": "name",
+            "sortDirection": "ASC",
+            "viewMode": "grid",
+            "iconAsset": null,
+            "isIconOptionVisible": false,
+            "isTagOptionExpanded": false,
+            "isLoadingAssets": false,
+            "isUploadingIcon": false,
+            "assetIds": []
+          },
+          {
+            "type": "asset",
+            "id": "19d9d26b",
+            "title": "",
+            "contentType": "manual",
+            "assetsToShow": 10,
+            "sortBy": "name",
+            "sortDirection": "ASC",
+            "viewMode": "grid",
+            "iconAsset": null,
+            "isIconOptionVisible": false,
+            "isTagOptionExpanded": false,
+            "isLoadingAssets": false,
+            "isUploadingIcon": false,
+            "assetIds": [
+              "7c0b0620dab53966b39af2e9588766ed",
+              "2f96b7e1a54c7ef1301ec0bd6fcab8c2"
+            ]
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "assets": {
+        "7c0b0620dab53966b39af2e9588766ed": {
+          "id": "7c0b0620dab53966b39af2e9588766ed",
+          "name": "cloud-02.jpg",
+          "filetype": "photo",
+          "downloadLink": "https://images-na.ssl-images-amazon.com/images/I/51V73pQXYfL.jpg",
+          "previewDownloadLink": "https://images-na.ssl-images-amazon.com/images/I/51V73pQXYfL.jpg",
+          "isShareable": true,
+          "views": 0,
+          "createdAt": "2018-04-12T13:35:26+00:00",
+          "updatedAt": "2018-05-02T08:16:32+00:00",
+          "appLink": "showpad://file/094d7b8bf541d1e21516c5946135f3da"
+        },
+        "2f96b7e1a54c7ef1301ec0bd6fcab8c2": {
+          "id": "2f96b7e1a54c7ef1301ec0bd6fcab8c2",
+          "name": "cloud-05.jpg",
+          "filetype": "photo",
+          "downloadLink": "https://images-na.ssl-images-amazon.com/images/I/51V73pQXYfL.jpg",
+          "previewDownloadLink": "https://images-na.ssl-images-amazon.com/images/I/51V73pQXYfL.jpg",
+          "isShareable": true,
+          "views": 1,
+          "createdAt": "2018-04-12T13:35:26+00:00",
+          "updatedAt": "2018-04-20T08:48:56+00:00",
+          "appLink": "showpad://file/9bbb1695be098e7ad4c81a5d537de0ee"
+        }
+      },
+      "pages": [],
+      "experiences": [],
+      "smartViews": []
+    }
+  }
+}
